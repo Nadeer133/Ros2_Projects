@@ -196,9 +196,6 @@ Through this project, the following software engineering concepts are explored:
 
 ---
 
-## PAC token
-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__
-
 ## Author
 
 **Mohamed Nadeer**

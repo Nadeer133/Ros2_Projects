@@ -1,0 +1,2 @@
+int16 speed_curr
+string speed_dir
